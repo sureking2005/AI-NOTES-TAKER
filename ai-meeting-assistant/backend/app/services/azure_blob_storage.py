@@ -3,6 +3,7 @@ from azure.storage.blob import BlobServiceClient
 from azure.core.exceptions import ResourceExistsError, ResourceNotFoundError
 from fastapi import UploadFile
 
+
 # ==========================================
 # 🔐 Azure Storage Setup
 # ==========================================
@@ -55,18 +56,24 @@ def upload_file_to_blob(file: UploadFile, container: str, blob_name: str):
 # ⬇️ Download File from Blob
 # ==========================================
 def download_file_from_blob(container: str, blob_name: str, download_path: str):
+
     blob_client = blob_service_client.get_blob_client(
         container=container,
         blob=blob_name
     )
 
     try:
-        stream = blob_client.download_blob()
+        stream = blob_client.download_blob(
+            max_concurrency=8,
+            timeout=120
+        )
 
-        with open(download_path, "wb") as f:
-            f.write(stream.readall())
+        with open(download_path, "wb") as file:
+            for chunk in stream.chunks():
+                file.write(chunk)
 
-        print(f"✅ Downloaded '{blob_name}' from container '{container}'")
+        size = os.path.getsize(download_path) / (1024*1024)
+        print(f"✅ Downloaded {blob_name} ({size:.2f} MB)")
 
     except ResourceNotFoundError:
         raise Exception(f"Blob '{blob_name}' not found in container '{container}'")

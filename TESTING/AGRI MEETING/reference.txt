@@ -1,0 +1,79 @@
+Good afternoon everyone. Let's start today's meeting. We need to review the progress of the Smart Agriculture Monitoring System.
+
+Haan Arjun, last week humne soil moisture sensors successfully deploy kar diye field mein.
+
+Sensor data ab real time mein cloud server pe stream ho raha hai using MQTT protocol.
+
+That's great. Dashboard mein live graphs bhi display ho rahe hain for temperature, humidity and soil moisture.
+
+Machine learning model ka kya progress hai crop prediction ke liye?
+
+Abhi hum Random Forest model use kar rahe hain. Dataset mein pichle ten years ka rainfall aur soil nutrient data hai.
+
+Model ka accuracy currently eighty seven percent aa raha hai validation dataset pe.
+
+We also added satellite imagery analysis to detect crop health issues.
+
+Nice. Early disease detection farmers ke liye bahut useful hoga.
+
+Bilkul. System leaf images analyze karke fungal infection detect kar sakta hai.
+
+Image processing ke liye hum convolutional neural network use kar rahe hain.
+
+The CNN model was trained using thousands of labeled crop images.
+
+Water irrigation automation ka status kya hai?
+
+Soil moisture threshold cross hone par irrigation pump automatically activate ho jaata hai.
+
+Farmers ko mobile notification bhi milta hai jab irrigation start ya stop hota hai.
+
+We implemented a mobile app where farmers can monitor their field remotely.
+
+Power consumption optimization bhi important hai remote areas ke liye.
+
+Haan, sensors solar powered modules se run ho rahe hain.
+
+Cloud backend AWS pe deploy kiya gaya hai with auto scaling enabled.
+
+Database ke liye hum PostgreSQL use kar rahe hain for storing sensor readings.
+
+Data visualization kaafi important hai farmers ko insights dene ke liye.
+
+Dashboard mein predictive analytics bhi show hoga future rainfall patterns ke liye.
+
+Weather API integration bhi complete ho gaya hai.
+
+Farmers ko weekly crop advisory bhi automatically generate hoga.
+
+Security measures ka kya status hai for user data?
+
+All API endpoints secured hain using token based authentication.
+
+Role based permissions bhi implement kiye gaye hain for admin aur farmers.
+
+We should also plan future integration with drone monitoring.
+
+Drone imagery se large farms ka analysis aur accurate ho sakta hai.
+
+Next sprint mein predictive yield estimation add kar sakte hain.
+
+System ka overall architecture scalable aur cost efficient hai.
+
+For demo we should highlight how technology improves farmer productivity.
+
+Exactly. Judges ko clearly explain karna hoga ki sensors, AI aur cloud kaise together kaam karte hain.
+
+Main kal tak updated dashboard design share kar dungi.
+
+Main ML model optimization pe kaam karunga.
+
+I will prepare the system architecture presentation.
+
+Perfect team. Let's finalize everything before the demo next week.
+
+Great meeting everyone.
+
+Chalo wrap karte hain.
+
+Thanks guys. Good progress today.
