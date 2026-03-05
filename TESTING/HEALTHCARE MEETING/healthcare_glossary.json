@@ -1,0 +1,127 @@
+[
+  {
+    "id": "1",
+    "wrong_term": "hospital management system",
+    "correct_term": "Hospital Management System"
+  },
+  {
+    "id": "2",
+    "wrong_term": "electronic health records",
+    "correct_term": "Electronic Health Records (EHR)"
+  },
+  {
+    "id": "3",
+    "wrong_term": "patient record module",
+    "correct_term": "Patient Record Module"
+  },
+  {
+    "id": "4",
+    "wrong_term": "appointment scheduling module",
+    "correct_term": "Appointment Scheduling Module"
+  },
+  {
+    "id": "5",
+    "wrong_term": "opd portal",
+    "correct_term": "OPD Portal"
+  },
+  {
+    "id": "6",
+    "wrong_term": "digital prescription generation",
+    "correct_term": "Digital Prescription Generation"
+  },
+  {
+    "id": "7",
+    "wrong_term": "medicine dosage",
+    "correct_term": "Medicine Dosage"
+  },
+  {
+    "id": "8",
+    "wrong_term": "pathology integration",
+    "correct_term": "Pathology Integration"
+  },
+  {
+    "id": "9",
+    "wrong_term": "patient profile",
+    "correct_term": "Patient Profile"
+  },
+  {
+    "id": "10",
+    "wrong_term": "hipaa compliance",
+    "correct_term": "HIPAA Compliance"
+  },
+  {
+    "id": "11",
+    "wrong_term": "access control",
+    "correct_term": "Access Control"
+  },
+  {
+    "id": "12",
+    "wrong_term": "insurance claim automation",
+    "correct_term": "Insurance Claim Automation"
+  },
+  {
+    "id": "13",
+    "wrong_term": "ward management dashboard",
+    "correct_term": "Ward Management Dashboard"
+  },
+  {
+    "id": "14",
+    "wrong_term": "emergency triage module",
+    "correct_term": "Emergency Triage Module"
+  },
+  {
+    "id": "15",
+    "wrong_term": "triage scoring system",
+    "correct_term": "Triage Scoring System"
+  },
+  {
+    "id": "16",
+    "wrong_term": "patient vitals",
+    "correct_term": "Patient Vitals"
+  },
+  {
+    "id": "17",
+    "wrong_term": "doctor mobile application",
+    "correct_term": "Doctor Mobile Application"
+  },
+  {
+    "id": "18",
+    "wrong_term": "sms gateway integration",
+    "correct_term": "SMS Gateway Integration"
+  },
+  {
+    "id": "19",
+    "wrong_term": "automated reminders",
+    "correct_term": "Automated Reminders"
+  },
+  {
+    "id": "20",
+    "wrong_term": "database indexing",
+    "correct_term": "Database Indexing"
+  },
+  {
+    "id": "21",
+    "wrong_term": "uat",
+    "correct_term": "User Acceptance Testing (UAT)"
+  },
+  {
+    "id": "22",
+    "wrong_term": "unique patient id",
+    "correct_term": "Unique Patient ID"
+  },
+  {
+    "id": "23",
+    "wrong_term": "billing module",
+    "correct_term": "Billing Module"
+  },
+  {
+    "id": "24",
+    "wrong_term": "twenty four hours",
+    "correct_term": "24 hours"
+  },
+  {
+    "id": "25",
+    "wrong_term": "five hundred concurrent users",
+    "correct_term": "500 concurrent users"
+  }
+]

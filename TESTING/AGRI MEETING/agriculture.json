@@ -1,0 +1,77 @@
+[
+  {
+    "id": "1",
+    "wrong_term": "smart agriculture monitoring",
+    "correct_term": "Smart Agriculture Monitoring System"
+  },
+  {
+    "id": "2",
+    "wrong_term": "soil moisture sensor",
+    "correct_term": "Soil Moisture Sensor"
+  },
+  {
+    "id": "3",
+    "wrong_term": "mqtt protocol",
+    "correct_term": "MQTT Protocol"
+  },
+  {
+    "id": "4",
+    "wrong_term": "random forest",
+    "correct_term": "Random Forest"
+  },
+  {
+    "id": "5",
+    "wrong_term": "convolutional neural network",
+    "correct_term": "Convolutional Neural Network (CNN)"
+  },
+  {
+    "id": "6",
+    "wrong_term": "satellite imagery",
+    "correct_term": "Satellite Imagery"
+  },
+  {
+    "id": "7",
+    "wrong_term": "predictive analytics",
+    "correct_term": "Predictive Analytics"
+  },
+  {
+    "id": "8",
+    "wrong_term": "weather api",
+    "correct_term": "Weather API"
+  },
+  {
+    "id": "9",
+    "wrong_term": "postgresql",
+    "correct_term": "PostgreSQL"
+  },
+  {
+    "id": "10",
+    "wrong_term": "aws cloud",
+    "correct_term": "Amazon Web Services (AWS)"
+  },
+  {
+    "id": "11",
+    "wrong_term": "token authentication",
+    "correct_term": "Token-Based Authentication"
+  },
+  {
+    "id": "12",
+    "wrong_term": "role based permissions",
+    "correct_term": "Role-Based Permissions"
+  },
+  {
+    "id": "13",
+    "wrong_term": "predictive yield estimation",
+    "correct_term": "Predictive Yield Estimation"
+  },
+  {
+    "id": "14",
+    "wrong_term": "auto scaling",
+    "correct_term": "Auto Scaling"
+  },
+  {
+    "id": "15",
+    "wrong_term": "data visualization",
+    "correct_term": "Data Visualization"
+  }
+]

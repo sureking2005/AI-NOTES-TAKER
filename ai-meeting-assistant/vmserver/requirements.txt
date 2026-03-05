@@ -1,0 +1,30 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+python-dotenv==1.0.1
+requests==2.32.3
+
+# WhisperX + Speech stack
+whisperx==3.8.1
+
+# PyTorch versions
+torch==2.8.0
+torchaudio==2.8.0
+torchvision==0.23.0
+
+# HuggingFace + models
+transformers>=4.48.0
+accelerate==0.33.0
+huggingface-hub==0.24.6
+
+# Pyannote diarization dependency
+pyannote.audio==3.3.2
+
+# Audio processing
+ffmpeg-python==0.2.0
+soundfile==0.12.1
+librosa==0.10.2.post1
+numpy==1.26.4
+
+# Utilities
+tqdm==4.66.5
+pydantic==2.8.2

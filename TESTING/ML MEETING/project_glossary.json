@@ -1,0 +1,77 @@
+[
+  {
+    "id": "1",
+    "wrong_term": "intelligent job notification",
+    "correct_term": "Intelligent Job Notification System"
+  },
+  {
+    "id": "2",
+    "wrong_term": "ml pipeline",
+    "correct_term": "Machine Learning Pipeline"
+  },
+  {
+    "id": "3",
+    "wrong_term": "semantic embedding",
+    "correct_term": "Semantic Embeddings"
+  },
+  {
+    "id": "4",
+    "wrong_term": "cosine similarity",
+    "correct_term": "Cosine Similarity"
+  },
+  {
+    "id": "5",
+    "wrong_term": "vector representation",
+    "correct_term": "Vector Representation"
+  },
+  {
+    "id": "6",
+    "wrong_term": "faiss",
+    "correct_term": "FAISS"
+  },
+  {
+    "id": "7",
+    "wrong_term": "bcrypt",
+    "correct_term": "Bcrypt"
+  },
+  {
+    "id": "8",
+    "wrong_term": "role based access control",
+    "correct_term": "Role-Based Access Control (RBAC)"
+  },
+  {
+    "id": "9",
+    "wrong_term": "similarity score",
+    "correct_term": "Similarity Score"
+  },
+  {
+    "id": "10",
+    "wrong_term": "threshold tuning",
+    "correct_term": "Threshold Tuning"
+  },
+  {
+    "id": "11",
+    "wrong_term": "zero point six",
+    "correct_term": "0.6"
+  },
+  {
+    "id": "12",
+    "wrong_term": "async tasks",
+    "correct_term": "Asynchronous Tasks"
+  },
+  {
+    "id": "13",
+    "wrong_term": "backend performance",
+    "correct_term": "Backend Performance"
+  },
+  {
+    "id": "14",
+    "wrong_term": "frontend dashboard",
+    "correct_term": "Frontend Dashboard"
+  },
+  {
+    "id": "15",
+    "wrong_term": "ml evaluation report",
+    "correct_term": "Machine Learning Evaluation Report"
+  }
+]
